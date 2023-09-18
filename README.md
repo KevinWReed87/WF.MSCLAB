@@ -115,7 +115,12 @@ Verify that the Windows Defender Firewall is toggled to On. Note the checkbox un
 
 <img src="https://i.imgur.com/AfBhU7d.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
 
+- Scroll to Mozilla Firefox. Note that the current configuration allows for Firefox to communicate on the Private network but denies it from communicating on the Public network.
+- Click the Public box next to Firefox. A checkmark will appear. Click OK to return to the Firewall & network protection screen. Users will now be able to use Mozilla Firefox on the public network.
 
+<img src="https://i.imgur.com/95tYwyc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+
+<h2>Configure Firewall Rules using Windows Defender Firewall with Advanced Security</h2>
 
 
 
