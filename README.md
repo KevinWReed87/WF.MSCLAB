@@ -124,8 +124,41 @@ Verify that the Windows Defender Firewall is toggled to On. Note the checkbox un
 
 For this lab, we want to use Windows Defender Firewall with Advanced Security to edit an existing firewall rule. We want to enforce the following rules:
 
-- Allow the connection for Key Management Service on the Domain and Private network.
-- Deny the connection for Key Management Service on the Public network.
+Allow the connection for Key Management Service on the Domain and Private network.
+
+Deny the connection for Key Management Service on the Public network.
+
+- Select Advanced settings on the Firewall & network protection screen.
+
+<img src="https://i.imgur.com/ip7ejR7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+
+ Here you will see an Overview in the center panel. There are two rule types listed on the left panel:
+
+- Inbound Rules
+
+- Outbound Rules
+
+Each of these rules can be configured to filter traffic based on computers, users, applications, ports and protocols
+
+- Click Inbound rules.
+
+<img src="https://i.imgur.com/a7cJWim.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+
+Within this list of inbound rules, the presence of a green checkmark beside some rules signifies that those rules are currently active, permitting inbound communication. On the other hand, rules lacking a checkmark are present and ready for use but are not currently enabled.
+
+<img src="https://i.imgur.com/9qtj9i9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+
+To locate the Key Management Service inbound rule in the Overview panel of Windows Defender Firewall with Advanced Security, please scroll down. Take note of the following details: The rule is presently not enabled, as indicated by the 'Enabled' column showing 'No.' If you were to enable this rule, it would allow communication, as the 'Action' column states 'Allow.' To access and modify this rule. 
+
+- Simply double-click on it.
+
+<img src="https://i.imgur.com/tzkEZSF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+
+Within these rule details, on the General tab, you'll find important information about the rule. This includes the rule's name, a description explaining its purpose, and whether the rule permits or blocks connections. In this specific instance, the rule allows the connection.
+
+- Click the Advanced tab.
+
+<img src="https://i.imgur.com/4d6wfPj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
 
 
 
