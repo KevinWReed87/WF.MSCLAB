@@ -103,7 +103,17 @@ Verify that the Windows Defender Firewall is toggled to On. Note the checkbox un
 
 <img src="https://i.imgur.com/H1KaWwk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
 
+- Click Public network.
 
+<img src="https://i.imgur.com/VUkhKIC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+
+Verify that the Windows Defender Firewall is toggled to On. Note the checkbox under Incoming connections. This is a quick access location that blocks all incoming public network traffic – even traffic that is normally permitted. Select the back arrow button to return to the Firewall and network protection window.
+
+<img src="https://i.imgur.com/W3srNZ8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+
+- Click Allow an app through firewall.
+
+<img src="https://i.imgur.com/AfBhU7d.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
 
 
 
