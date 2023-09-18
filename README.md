@@ -86,6 +86,25 @@ Here you will see the firewall status for the following:
 
 <img src="https://i.imgur.com/Rzzgwd3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
 
+- Click Domain network.
+
+<img src="https://i.imgur.com/Bo4Jf4d.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+
+
+Verify that the Windows Defender Firewall is toggled to On. Note the checkbox under Incoming connections. This is a quick access location that blocks all incoming domain network traffic – even traffic that is normally permitted. Select the back arrow button to return to the Firewall and network protection window.
+
+<img src="https://i.imgur.com/Z1l2jhT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+
+- Click Private network.
+
+<img src="https://i.imgur.com/e2dJiSE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+
+Verify that the Windows Defender Firewall is toggled to On. Note the checkbox under Incoming connections. This is a quick access location that blocks all incoming private network traffic – even traffic that is normally permitted. Select the back arrow button to return to the Firewall and network protection window.
+
+<img src="https://i.imgur.com/H1KaWwk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+
+
+
 
 
 
