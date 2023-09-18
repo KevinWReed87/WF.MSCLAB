@@ -160,6 +160,43 @@ Within these rule details, on the General tab, you'll find important information
 
 <img src="https://i.imgur.com/4d6wfPj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
 
+All the profile rules are selected but we only want the domain and private rules selected.
+
+-Uncheck public, then click apply, then click ok
+
+<img src="https://i.imgur.com/ExxvH23.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+<img src="https://i.imgur.com/tE56izz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+
+Now we will create an inbound rule that blocks communication with the public network. Since the new rule will be similar to the last, we will copy the existing rule. Right-click the Key Management Service (TCP-In) inbound rule and click Copy. Press Ctrl+V to paste.
+
+<img src="https://i.imgur.com/Gcbwc3T.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+
+You will now see a second Key Management Service (TCP-In) inbound rule. Double-click the second rule to open the **Key Management Service *TCP-IN) Properties.
+
+<img src="https://i.imgur.com/kS5XWHs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+
+We want to block connection with the public network, select Block the connection on the General tab. 
+
+- Click Apply.
+
+<img src="https://i.imgur.com/tn31gCc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+
+
+- Click the Advanced tab.
+- Remove checks from domain and private boxes.
+- Click public to add check
+- Click Ok
+
+<img src="https://i.imgur.com/NVQ66fn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+
+- Right-click each Key Management Service (TCP-In) rule and click Enable rule.
+- Now, take a look at the first rule, and you'll notice a green checkmark next to it, indicating that this rule, which allows communication, is currently enabled. On the other hand, the second rule is marked with a circle and a line through it, indicating that this rule, responsible for blocking communication, is also enabled.
+
+<img src="https://i.imgur.com/1Kozvsz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+
+
+
+
 
 
 
