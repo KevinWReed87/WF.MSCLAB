@@ -66,6 +66,26 @@ This page shows you the results of the last scan. You see the files identified a
 
 No files are present in the Downloads folder for this lab, the scan will not find anything to scan. In a custom scan, you can usually select specific files or folders to include in the scan. This is just a example of how it would be conducted.
 
+<h2>Configure Firewall Rules Using Windows Defender Firewall</h2>
+
+In this lab I will review Windows Defender Firewall configuration.
+
+- Click the Windows Start button. and then select Windows Security.
+
+<img src="https://i.imgur.com/7mBscU5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+
+- Click Firewall & network protection.
+
+<img src="https://i.imgur.com/9kXjRiO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+
+Here you will see the firewall status for the following:
+
+- Domain network
+- Private network
+- Public network
+
+<img src="https://i.imgur.com/Rzzgwd3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+
 
 
 
