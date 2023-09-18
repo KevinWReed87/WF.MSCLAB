@@ -52,6 +52,24 @@ Now we can run an antivirus scan. Click the Quick scan button on the Virus & thr
 
 - Click Threat history to view any recent findings.
 
+This page shows you the results of the last scan. You see the files identified as a threat and quarantined, so they cannot damage your device. You then see files identified as potential threats but allowed to continue running.
+
+<img src="https://i.imgur.com/W5gUETV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+
+<h2>Run A Custom Scan</h2>
+
+- I will run a custom scan that only scans the files in the Downloads folder.
+
+<img src="https://i.imgur.com/QUMjTVG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+
+<img src="https://i.imgur.com/rMKIjzX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+
+No files are present in the Downloads folder for this lab, the scan will not find anything to scan. In a custom scan, you can usually select specific files or folders to include in the scan. This is just a example of how it would be conducted.
+
+
+
+
+
 
 
 
