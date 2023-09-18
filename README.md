@@ -38,8 +38,19 @@ Windows Security uses security intelligence, also known as definitions, to ident
 - Under Virus & threat protection updates, select Check for updates.
 
 <img src="https://i.imgur.com/8eUTV9N.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
-<img src="https://i.imgur.com/AROONpw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
 
+- Click check for updates
+
+<img src="https://i.imgur.com/AROONpw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+<img src="https://i.imgur.com/a1JKW4k.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+
+<h2>Run Antivirus Quick Scan</h2>
+
+Now we can run an antivirus scan. Click the Quick scan button on the Virus & threat protection screen. The scan will take several minutes to run. When complete, the Quick scan button will reappear. 
+
+<img src="https://i.imgur.com/37Ja9fB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+
+- Click Threat history to view any recent findings.
 
 
 
