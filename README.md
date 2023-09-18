@@ -122,6 +122,10 @@ Verify that the Windows Defender Firewall is toggled to On. Note the checkbox un
 
 <h2>Configure Firewall Rules using Windows Defender Firewall with Advanced Security</h2>
 
+For this lab, we want to use Windows Defender Firewall with Advanced Security to edit an existing firewall rule. We want to enforce the following rules:
+
+- Allow the connection for Key Management Service on the Domain and Private network.
+- Deny the connection for Key Management Service on the Public network.
 
 
 
