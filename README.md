@@ -2,7 +2,7 @@
 
 <h1>Securing Windows with Defender: GitHub Lab on Antivirus and Firewall Configuration</h1>
 
-I'll be exploring the world of Windows Defender and Firewall, essential components of Windows security, to help you understand their functionalities, configurations, and how they safeguard your system.
+In this lab, you’ll access and review Windows Security Virus & threat protection. Windows Defender Virus & threat protection is a built-in security feature that scans for threats on your system.
 
 <h2>Windows Security Virus & Threat Protection</h2>
 
@@ -30,4 +30,17 @@ This screen shows the following features:
 - Virus & threat protection updates: Here, you can view the last time your virus definitions were updated. You can also opt to manually check for updates.
 
 - Ransomware protection: Here, you can choose to enable controlled folder access. This protects memory, files, and folders from unauthorized changes.
+
+<h2>Update Threat Definitions</h2>
+
+Windows Security uses security intelligence, also known as definitions, to identify known threats. These definitions include information about known threats. These definitions are updated automatically, but if you suspect a problem with your system, you should ensure that threat definitions are up-to-date before you run a scan.
+
+- Under Virus & threat protection updates, select Check for updates.
+
+<img src="https://i.imgur.com/8eUTV9N.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+<img src="https://i.imgur.com/AROONpw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+
+
+
+
 
