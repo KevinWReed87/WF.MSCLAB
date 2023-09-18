@@ -198,6 +198,13 @@ We want to block connection with the public network, select Block the connection
 
 
 
+<img src="https://i.imgur.com/5fHW5CN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+
+
+
+
+
+
 
 
 
