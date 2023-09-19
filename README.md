@@ -190,7 +190,7 @@ We want to block connection with the public network, select Block the connection
 <img src="https://i.imgur.com/NVQ66fn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
 
 - Right-click each Key Management Service (TCP-In) rule and click Enable rule.
-- Now, take a look at the first rule, and you'll notice a green checkmark next to it, indicating that this rule, which allows communication, is currently enabled. On the other hand, the second rule is marked with a circle and a line through it, indicating that this rule, responsible for blocking communication, is also enabled.
+- Now, take a look at the first rule, and you'll notice a green checkmark next to it, indicating that this rule, which allows communication, is currently enabled. The second rule is marked with a circle and a line through it, indicating that this rule, responsible for blocking communication, is also enabled.
 
 <img src="https://i.imgur.com/1Kozvsz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
 
